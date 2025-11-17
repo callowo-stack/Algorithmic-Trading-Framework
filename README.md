@@ -344,9 +344,10 @@ MIT License - See LICENSE file
 
 ## 📬 Contact
 
-**Calvin Owoade**  
-GitHub: [@callowo-stack](https://github.com/callowo-stack)  
-Portfolio: Multi-Agent-Trading-System | Algorithmic-Trading-Framework
+**Calvin McCormick**  
+GitHub: [@callowo-stack](https://github.com/callowo-stack)
+Linkedin: [https://www.linkedin.com/in/calvinm9/]
+Portfolio: [www.calvinmccormick.com]
 
 ---
 
